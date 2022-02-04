@@ -3,7 +3,6 @@
 - 🌱 I’m currently learninig how to use GitHub
 - 📫 How to reach me ...
 ➾ string instagram = "heyimdima";
-➾ printf("My instagram is: %s", instagram);
 
 <!---
 further addition to this document should contain: 

@@ -2,8 +2,8 @@
 - 👀 I’m interested in developing real world solutions in computer science to change the world for the better!
 - 🌱 I’m currently learninig how to use GitHub
 - 📫 How to reach me ...
-- string instagram = "heyimdima";
-- printf("My instagram is: %s", instagram);
+➾ string instagram = "heyimdima";
+➾ printf("My instagram is: %s", instagram);
 
 <!---
 further addition to this document should contain: 

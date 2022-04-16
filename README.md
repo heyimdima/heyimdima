@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing real world solutions in computer science to change the world for the better!
 - 🌱 I’m currently learninig how to use C++, Java and JavaScript.
 - 📫 How to reach me:
--      E-mail: bondardima@icloud.com
+-      Email: bondardima@icloud.com
 -      LinkedIn: https://www.linkedin.com/in/dmytro-bondar-/
 
 <!---

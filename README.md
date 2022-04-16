@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heyimdima (My full name is Dmytro Bondar, but I usually go by Dima)
-- 👀 I’m interested in creating real world solutions through the development of software!
+- 👀 I’m interested in creating real world solutions through the software engineering!
 - 🌱 I’m currently learninig how to use C++, Java and JavaScript.
 - 📫 How to reach me:
 -      Email: bondardima@icloud.com

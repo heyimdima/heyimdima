@@ -2,7 +2,7 @@
 - 🌱 Software Engineering Student
 - 📫 How to reach me:
 -      Email: bondardima@icloud.com
--      LinkedIn: https://www.linkedin.com/in/dmytro-bondar-/
+-      LinkedIn: https://www.linkedin.com/in/dimabondar/
 
 <!---
 further addition to this document should contain: 

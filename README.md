@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heyimdima
+- 👋 Hi, I’m Dima Bondar
 - 🌱 Software Engineering Student
 - 📫 How to reach me:
 -      LinkedIn: https://www.linkedin.com/in/dimabondar/

@@ -1,11 +1,1 @@
-- 👋 Hi, I’m Dima Bondar
-- 🌱 Software Engineering Student
-- 📫 How to reach me:
--      LinkedIn: https://www.linkedin.com/in/dimabondar/
-
-<!---
-further addition to this document should contain: 
-- Personal website link
-- Business inquaries email
-- Information about my biggest projects in the title
---->
+Seattle, WA
